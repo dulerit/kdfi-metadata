@@ -1,0 +1,13 @@
+{
+  "name": "KeyDeFi",
+  "symbol": "KDFI",
+  "description": "KeyDeFi ($KDFI) powers the KeyDeFi ecosystem — multi-chain trading intelligence, CREEPR Bot alerts, autopilot trading, and DeFi terminal access. $KDFI is the utility token fueling subscriptions, premium access, and ecosystem growth.",
+  "image": "https://raw.githubusercontent.com/YourUser/YourRepo/main/kdfi-logo.png",
+  "extensions": {
+    "website": "https://kdfi.io",
+    "twitter": "https://twitter.com/KeyDeFi",
+    "telegram": "https://t.me/KeyDeFi",
+    "discord": "https://discord.gg/KeyDeFi",
+    "coingeckoId": "keydefi"
+  }
+}
