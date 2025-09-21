@@ -5,9 +5,7 @@
   "image": "https://github.com/dulerit/kdfi-metadata/blob/main/KDFI_256x256.png",
   "extensions": {
     "website": "https://kdfi.io",
-    "twitter": "https://twitter.com/KeyDeFi",
+    "twitter": "https://twitter.com/KDFICoin",
     "telegram": "https://t.me/KeyDeFi",
-    "discord": "https://discord.gg/KeyDeFi",
-    "coingeckoId": "keydefi"
   }
 }
